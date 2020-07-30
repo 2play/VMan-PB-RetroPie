@@ -1,7 +1,7 @@
 #!/bin/bash
 # The PlayBox Project
 # Copyright (C)2018-2020 2Play! (S.R.)
-# PlayBox ToolKit 13.07.20
+# PlayBox ToolKit 18.07.20
 
 infobox=""
 infobox="${infobox}        __________.__                 __________                
